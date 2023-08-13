@@ -1,3 +1,11 @@
+![image1](https://github.com/idkcoo/Barbarik/assets/132001470/88bce2e9-b240-4be3-bef3-238749ca63c7)
+![Uploading image (6).png…]()
+![Uploading text.png…]()
+![Uploading 00003-3573831534.png…]()
+![Uploading image (3).png…]()
+g![Uploading image.png…]()
+![Uploading image (1).png…]()
+ ![Uploading image (2).png…]()
 # Barbarik
 Barbarik: India's First AI Text to Image Generator
 
@@ -23,3 +31,6 @@ Be the first in India to use this amazing technology
 Pricing:
 
 Barbarik is available for completely free.
+[Uploading image (4).png…]()
+
+![Uploading image (5).png…]()
