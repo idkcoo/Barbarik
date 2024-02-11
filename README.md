@@ -1,3 +1,4 @@
+You can download it from here : https://github.com/idkcoo/Barbarik/blob/main/Barbarik.apk
 
 # Barbarik(Beta)
 Barbarik: India's First AI Text to Image Generator
